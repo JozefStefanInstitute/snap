@@ -7,7 +7,7 @@
 // SNAP library
 #include "base.h"
 #include "gnuplot.h"
-#include "linalg.h"
+//#include "linalg.h"
 
 #include "gbase.h"
 #include "util.h"
