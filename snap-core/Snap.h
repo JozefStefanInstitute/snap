@@ -4,8 +4,8 @@
 /// ##mainpage
 
 /////////////////////////////////////////////////
-// SNAP library
-#include "base.h"
+// SNAP library mogoce
+#include <base.h>
 #include "gnuplot.h"
 //#include "linalg.h"
 
